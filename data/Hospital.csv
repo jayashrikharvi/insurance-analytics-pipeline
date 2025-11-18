@@ -1,0 +1,21 @@
+hospital_id,hospital_name,affordability,quality_of_service,location
+HOSP1,Riverdale Medical Center,low,4,Central
+HOSP2,Sunrise Health,low,5,West
+HOSP3,Oakwood Clinic,medium,4,Central
+HOSP4,Lakeside Hospital,medium,1,West
+HOSP5,Cedar Valley Hospital,low,1,Central
+HOSP6,Greenview Medical,low,1,South
+HOSP7,Hilltop Health Center,medium,1,Central
+HOSP8,Maple Leaf Hospital,high,2,North
+HOSP9,Westbrook Medical,high,2,North
+HOSP10,Pinecrest Health,high,4,East
+HOSP11,Silverlake Clinic,medium,2,Central
+HOSP12,Eastwood Medical,low,3,West
+HOSP13,Clearwater Hospital,low,5,South
+HOSP14,Northfield Health,medium,3,North
+HOSP15,Redwood Medical Center,high,4,South
+HOSP16,Brookside Clinic,medium,3,East
+HOSP17,Springhill Hospital,high,2,West
+HOSP18,Meadowview Health,medium,3,South
+HOSP19,Summit Medical,high,1,East
+HOSP20,Valleypoint Hospital,medium,3,North

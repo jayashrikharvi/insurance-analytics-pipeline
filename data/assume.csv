@@ -1,0 +1,6 @@
+age,bmi,children,smoker,Gender_Female,Gender_Male,predict_charges
+19,24,0,1,True,False,403.97647368367325
+19,24,0,1,False,True,419.7875130485263
+19,24,0,0,True,False,24138.689150474336
+19,24,3,1,True,False,1826.5578735318722
+19,32,0,1,True,False,3042.44663752815
