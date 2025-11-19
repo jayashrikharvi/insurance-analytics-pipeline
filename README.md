@@ -1,6 +1,6 @@
 # Insurance Analytics – Python + MySQL + Tableau
 
-End-to-end pipeline that:
+The goal of this project is to analyze patient–hospital–insurance data, build predictive models for insurance charges, and visualize key insights through professional dashboards.
 - Loads hospital & patient CSVs with Python
 - Cleans and enriches the data
 - Trains a regression model to predict insurance charges
