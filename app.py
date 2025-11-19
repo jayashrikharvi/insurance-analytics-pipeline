@@ -72,9 +72,9 @@ print("Predictions generated for assume.csv.")
 
 # 4. CONNECT TO MYSQL ------------------------------------------------------
 
-# CHANGE these credentials as per your MySQL setup
+
 USER = "root"
-PASSWORD = "password"  # <-- change this
+PASSWORD = "password"  
 HOST = "localhost"
 PORT = 3306
 DB = "insurance_db"
