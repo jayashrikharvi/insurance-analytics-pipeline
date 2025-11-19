@@ -7,3 +7,5 @@ The goal of this project is to analyze patient–hospital–insurance data, buil
 - Stores data in MySQL (`insurance_db`)
 - Creates an analytics view using SQL CTEs + window functions
 - Visualizes metrics in Tableau (hospital performance, risk groups, rolling averages)
+
+  CSV Files → Python (ETL + ML) → MySQL Database → SQL View → Tableau Dashboards
